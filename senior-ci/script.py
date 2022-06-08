@@ -1,1 +1,0 @@
-RUN text1.txt
